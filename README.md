@@ -1,73 +1,38 @@
-# Welcome to your Lovable project
+🧶 BeetXuul | Tejiendo Ideas con Datos
 
-## Project info
+BeetXuul es una startup que ayuda a las PYMES a transformar datos complejos en decisiones claras mediante soluciones personalizadas de visualización y análisis de datos.
 
-**URL**: https://lovable.dev/projects/546b3d4a-25a7-4988-b7c1-04b420a14913
+🚀 Servicios
 
-## How can I edit this code?
+1. Consultoría Personalizada
+Evaluación Inicial: Diagnóstico de procesos y retos específicos de cada empresa.
 
-There are several ways of editing your application.
+Soporte y Entrenamiento: Capacitación práctica a través de tutoriales interactivos, webinars y guías in-app.
 
-**Use Lovable**
+2. Formación y Capacitación
+Cursos Especializados:
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/546b3d4a-25a7-4988-b7c1-04b420a14913) and start prompting.
+UX/UI para Visualización de Datos.
 
-Changes made via Lovable will be committed automatically to this repo.
+Ant Design aplicado a dashboards.
 
-**Use your preferred IDE**
+Webinars y Tutoriales: Contenido educativo para mejorar habilidades en análisis de datos.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+🎯 Beneficios
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Reducción de Tiempos de Análisis: Hasta un 50% menos tiempo dedicado al análisis de datos.
+Minimización de Errores: Interfaces intuitivas que reducen en un 20% los errores en decisiones críticas.
+Aumento en la Eficiencia Operativa: Mejora en los procesos internos en al menos un 15%.
+Modelo de Inversión Flexible: Proyectos integrales a partir de $18,000 MXN durante 3 meses, con opciones de suscripción mensual o anual.
 
-Follow these steps:
+🧩 Público Objetivo
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/546b3d4a-25a7-4988-b7c1-04b420a14913) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+BeetXuul está diseñado para PYMES en sectores como:
+Recursos Humanos
+Turismo
+Retail y Cadenas de Suministro
+Salud
+Educación
+Gobierno
+Automotriz
+Operaciones y Logística
